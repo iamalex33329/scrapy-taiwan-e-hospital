@@ -64,7 +64,7 @@ pip install -r requirements.txt
 - `reply_date`: 回覆日期
 - `answer_text`: 回覆內容
 
-具體輸出結構可參考 [Demo File](https://github.com/iamalex33329/chatgpt-develop-guide-zhtw/blob/master/demo.json)
+具體輸出結構可參考 [Demo File](https://github.com/iamalex33329/scrapy-taiwan-e-hospital/blob/master/demo.json)
 
 ## 資料庫結構
 
